@@ -62,7 +62,7 @@ Check the [CHANGELOG.md](https://github.com/thepirat000/Audit.NET/blob/master/CH
 
 ## ZZZ Projects - Sponsorship
 
-[Entity Framework Extensions](https://entityframework-extensions.net/) and [Dapper Plus](https://dapper-plus.net/) is a major sponsor and is proud to contribute to the development of Audit.NET
+[Entity Framework Extensions](https://entityframework-extensions.net/) and [Dapper Plus](https://dapper-plus.net/) are major sponsors and are proud to contribute to the development of Audit.NET
 
 Combine the power of auditing with the speed of Bulk Operations to get the best of both worlds — audit and performance.
 
